@@ -1,4 +1,4 @@
-Sistema de Gestión y Trazabilidad de Inventarios
+✅Sistema de Gestión y Trazabilidad de Inventarios
 Proyecto de Ingeniería – UNAD
 Estado del proyecto: Diseño del prototipo (Figma)
 
