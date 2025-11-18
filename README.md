@@ -6,7 +6,6 @@ Este repositorio contiene los avances del proyecto “Sistema de gestión y traz
 Actualmente, el proyecto se encuentra en la fase de diseño de la solución, donde se ha desarrollado un prototipo funcional usando Figma.
 
 Prototipo interactivo en Figma
-
 Puedes acceder al diseño aquí:
 https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-point-node-id=1%3A6
 
@@ -14,13 +13,10 @@ https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-p
 
 El objetivo del sistema es permitir a las tiendas de autoservicio gestionar su inventario en tiempo real mediante:
 
-Registro de entradas y salidas
-
-Métricas rápidas e indicadores
-
-Alertas por bajo stock
-
-Reportes mensuales
+-Registro de entradas y salidas
+-Métricas rápidas e indicadores
+-Alertas por bajo stock
+-Reportes mensuales
 
 Configuración del sistema (usuarios, parámetros, tienda y notificaciones)
 
@@ -37,7 +33,6 @@ Edy Santiago Rico Villalobos
 María Alejandra Castillo Figueroa
 
 📌 Estado actual
-
 ✔ Prototipo Figma finalizado
 ⬜ Inicio de desarrollo en código (pendiente)
 ⬜ Implementación backend
