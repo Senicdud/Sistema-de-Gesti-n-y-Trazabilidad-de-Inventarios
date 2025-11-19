@@ -21,7 +21,7 @@ El objetivo del sistema es permitir a las tiendas de autoservicio gestionar su i
 -Reportes mensuales
 
 Configuración del sistema (usuarios, parámetros, tienda y notificaciones)
-
+-
 📂 Estructura actual del repositorio
 
 /docs               → Documentos del proyecto (metodología, informes)
@@ -34,13 +34,14 @@ backend             → Código del backend (por desarrollar)
 
 README.md           → Documentación general del proyecto
 
-
+-
 👥 Autores
 
 Edy Santiago Rico Villalobos
 
 María Alejandra Castillo Figueroa
 
+-
 📌 Estado actual
 
 ✔ Prototipo Figma finalizado
