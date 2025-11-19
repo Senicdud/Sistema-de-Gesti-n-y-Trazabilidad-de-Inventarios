@@ -13,7 +13,7 @@ https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-p
 
 Se recomienda Presionar la tecla Z para tener una mejor vista con figma
 -
-📘 Descripción del proyecto
+# 📘 Descripción del proyecto
 
 El objetivo del sistema es permitir a las tiendas de autoservicio gestionar su inventario en tiempo real mediante:
 
