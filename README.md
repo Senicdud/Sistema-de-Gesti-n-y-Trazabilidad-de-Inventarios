@@ -7,6 +7,7 @@ Actualmente, el proyecto se encuentra en la fase de diseño de la solución, don
 
 
 Prototipo interactivo en Figma
+------------------------------
 Puedes acceder al diseño aquí:
 https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-point-node-id=1%3A6
 
