@@ -34,14 +34,15 @@ backend             → Código del backend (por desarrollar)
 
 README.md           → Documentación general del proyecto
 
--
+
+----------------------
 👥 Autores
 
 Edy Santiago Rico Villalobos
 
 María Alejandra Castillo Figueroa
 
--
+---------------------
 📌 Estado actual
 
 ✔ Prototipo Figma finalizado
