@@ -10,7 +10,7 @@ Puedes acceder al diseño aquí:
 https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-point-node-id=1%3A6
 
 Se recomienda Presionar la tecla Z para tener una mejor vista con figma
-
+-
 📘 Descripción del proyecto
 
 El objetivo del sistema es permitir a las tiendas de autoservicio gestionar su inventario en tiempo real mediante:
