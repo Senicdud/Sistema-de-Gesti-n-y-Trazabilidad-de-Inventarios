@@ -17,14 +17,13 @@ https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-p
 
 El objetivo del sistema es permitir a las tiendas de autoservicio gestionar su inventario en tiempo real mediante:
 
--Registro de entradas y salidas
--Métricas rápidas e indicadores
--Alertas por bajo stock
--Reportes mensuales
+- Registro de entradas y salidas
+- Métricas rápidas e indicadores
+- Alertas por bajo stock
+- Reportes mensuales
+- Configuración del sistema (usuarios, parámetros, tienda y notificaciones)
 
-Configuración del sistema (usuarios, parámetros, tienda y notificaciones)
--
-📂 Estructura actual del repositorio
+# 📂 Estructura actual del repositorio
 
 /docs               → Documentos del proyecto (metodología, informes)
 
