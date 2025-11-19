@@ -6,8 +6,8 @@ Este repositorio contiene los avances del proyecto “Sistema de gestión y traz
 Actualmente, el proyecto se encuentra en la fase de diseño de la solución, donde se ha desarrollado un prototipo funcional usando Figma.
 
 
-Prototipo interactivo en Figma
--------------------------------
+# Prototipo interactivo en Figma
+
 Puedes acceder al diseño aquí:
 https://www.figma.com/proto/OWmhvOKUAdHHrJZVggbCqa/Tienda?node-id=1-6&starting-point-node-id=1%3A6
 
